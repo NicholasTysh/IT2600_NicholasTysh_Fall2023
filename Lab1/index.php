@@ -10,7 +10,7 @@
 <body>
     <main>
         <h1>
-            Hello World, from <?php echo $name; ?>
+            hello, world from <?php echo $name; ?>
         </h1>
     </main>
 </body>
