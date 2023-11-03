@@ -35,7 +35,7 @@
                 "<b>Title:</b> " . $this->title . "<br>" .
                 "<b>Author:</b> " . $this->author . "<br>" .
                 "<b>Price:</b> $" . number_format($this->price, 2) .
-                "</div>";
+            "</div>";
         }
     }
 
