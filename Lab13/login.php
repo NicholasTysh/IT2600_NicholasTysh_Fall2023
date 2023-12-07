@@ -39,7 +39,7 @@ function handleLogin()
         $servername = "localhost";
         $username = "root";
         // Your password here
-        $password = "e75if/T8]y2e(At3";
+        $password = "your_password_here";
         $dbname = "it1150";
 
         // Create connection
