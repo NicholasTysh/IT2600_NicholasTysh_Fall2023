@@ -78,7 +78,7 @@ CourseHub is designed for managing educational courses, classes, and sections. I
   <img src="./images/sections.png" alt="sections" style="max-width: 50%; height: auto;"><br>
   - As the user types in the `course_id` input, a hint appears showing matching course IDs from the courses table, implemented via JavaScript and AJAX. <br>
 
-  <img src="./images/sections.png" alt="sections" style="max-width: 50%; height: auto;"><br>
+  <img src="./images/addsection.png" alt="sections" style="max-width: 50%; height: auto;"><br>
   - Clicking on a hint auto-fills the `course_id`. If no course exists, a link to `addcourse.php` is provided, passing the current input as a convenience.
 - **Courses and Sections Management**:
   - Both courses and sections can be sorted by various attributes.
